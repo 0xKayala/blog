@@ -13,7 +13,6 @@ mermaid: true
 
 
 
-
 ## Broken Authentication and Session Management
 
 
