@@ -13,7 +13,6 @@ mermaid: true
 
 
 
-
 ## SNMP Enumeration
 
 ![SNMP Enumeration](https://user-images.githubusercontent.com/16838353/204099544-ef3538c9-cb64-43cc-a37f-86abcc96122c.jpeg)
