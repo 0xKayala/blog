@@ -1,27 +1,21 @@
 #  The contact options.
 
--
-  type: github
+- type: github
   icon: 'fab fa-github'
   url: 'https://github.com/0xKayala'
--
-  type: twitter
+- type: twitter
   icon: 'fab fa-twitter'
   url: 'https://twitter.com/0xKayala'
--
-  type: linkedin
+- type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/0xkayala/'  # Fill with your Linkedin homepage
--
-  type: email
+- type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
+- type: rss
   icon: 'fas fa-rss'
   noblank: true
 -
-
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
